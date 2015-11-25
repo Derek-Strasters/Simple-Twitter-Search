@@ -7,5 +7,10 @@
 	<classpathentry kind="lib" path="lib/twitter4j-examples-4.0.4.jar"/>
 	<classpathentry kind="lib" path="lib/twitter4j-media-support-4.0.4.jar"/>
 	<classpathentry kind="lib" path="lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephanie/Desktop/New folder/unirest-java-1.4.7.jar" sourcepath="C:/Users/Stephanie/.m2/repository/com/mashape/unirest/unirest-java/1.4.7/unirest-java-1.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephanie/Desktop/New folder/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephanie/Desktop/New folder/httpcomponents-asyncclient-4.1.1/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephanie/Desktop/New folder/httpcomponents-asyncclient-4.1.1/lib/httpcore-nio-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stephanie/Desktop/New folder/httpcomponents-asyncclient-4.1.1/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
